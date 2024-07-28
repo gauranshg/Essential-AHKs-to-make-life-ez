@@ -11,7 +11,7 @@ keyboard_events = []
 recording = False
 replaying = False
 use_absolute_coordinates = True  # Set to True for absolute coordinates, False for relative
-recording_file = "create_class.pkl"  # File to save/load recordings
+recording_file = "stock.pkl"  # File to save/load recordings
 
 # Record mouse events
 def on_click(x, y, button, pressed):
